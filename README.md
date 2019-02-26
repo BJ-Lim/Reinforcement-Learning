@@ -1,6 +1,8 @@
 # 개요
 - 여러책을 참고하여 강화학습에 대해 공부합니다. 책의 목록은 다음과 같습니다.
   + 강화학습 첫걸음(아서 줄리아니, 한빛미디어)
+    + 책의 내용(영어ver)은 링크의 블로그에서 참고할 수 있습니다. [[링크](https://medium.com/emergent-future)]
+    + 실습 관련 코드 원본 : [[링크](https://github.com/awjuliani/DeepRL-Agents)]
 
 # 개발 환경
 - window10
