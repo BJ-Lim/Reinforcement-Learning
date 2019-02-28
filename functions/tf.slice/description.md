@@ -81,6 +81,10 @@ t = tf.constant([[[1,1,1], [2,2,2]],
 ```
 가 남게됩니다.
 
+## example
+- jupyter notebook으로 실행한 결과를 바로 확인해 볼 수 있습니다.
+- [link](https://github.com/BJ-Lim/Reinforcement-Learning/blob/master/functions/tf.slice/example.ipynb)
+
 ## Reference
 - [link](https://www.tensorflow.org/api_docs/python/tf/slice)
 
