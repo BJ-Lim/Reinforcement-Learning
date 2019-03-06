@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 test.ipynb
+dqn
+__pycache__
